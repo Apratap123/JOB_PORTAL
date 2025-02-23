@@ -107,12 +107,12 @@ const Login = () => {
                   required: "Password is required",
                 })}
               />
-              <Link
+              {/* <Link
                 to="/forgot-password"
                 className="absolute right-3 top-1/2 transform -translate-y-1/2 text-red-500 text-sm"
               >
                 Forgot?
-              </Link>
+              </Link> */}
             </div>
             {errors.password && (
               <p className="text-red-600">{errors.password.message}</p>
