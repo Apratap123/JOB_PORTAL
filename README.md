@@ -4,21 +4,22 @@ A full-stack job portal web application that bridges the gap between job seekers
 🚀 Live Demo:https://job-portal-three-navy.vercel.app/
 ---
 🔥 Features
-👨‍💼 Recruiter
+---
+#👨‍💼 Recruiter
 Post Job Openings: Create job listings with title, description, salary, location, and experience requirements.
 
-Manage Applicants: View and manage all received applications.
+ Manage Applicants: View and manage all received applications.
 
 Dashboard: Track posted jobs and monitor applicant statuses.
 ---
-👨‍💻 Job Seeker
+#👨‍💻 Job Seeker
 Apply to Jobs: Upload your resume and select your skillset to apply.
 
 Advanced Filters: Search jobs by salary, location, job type, and experience level.
 
 Profile Management: Manage your resume and skillset to streamline applications.
 ---
-🛠 Tech Stack
+#🛠 Tech Stack
 Frontend: React.js, Tailwind CSS, Shadcn/UI
 
 Backend: Node.js, Express.js
