@@ -1,4 +1,4 @@
-💼 Job Portal Application
+#💼 Job Portal Application
 A full-stack job portal web application that bridges the gap between job seekers and recruiters. The platform allows recruiters to post and manage job listings, while job seekers can search, filter, and apply for jobs through a sleek and modern interface.
 
 🚀 Live Demo: Click Here to Explore the App
