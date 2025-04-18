@@ -1,31 +1,34 @@
-##💼 Job Portal Application
-A full-stack job portal web application that connects job seekers with recruiters. The platform enables recruiters to post and manage job listings while allowing job seekers to search, filter, and apply for jobs using a simple, modern interface.
+💼 Job Portal Application
+A full-stack job portal web application that bridges the gap between job seekers and recruiters. The platform allows recruiters to post and manage job listings, while job seekers can search, filter, and apply for jobs through a sleek and modern interface.
 
-🚀 Live Demo
-🔗 Live Demo: https://job-portal-three-navy.vercel.app/
+🚀 Live Demo: Click Here to Explore the App
 
 🔥 Features
 👨‍💼 Recruiter
-Post Job Openings: Create job listings with details like job title, description, salary, location, and experience level.
+Post Job Openings: Create job listings with title, description, salary, location, and experience requirements.
 
-Manage Applicants: View and manage applications received for each job.
+Manage Applicants: View and manage all received applications.
 
-Recruiter Dashboard: Keep track of posted jobs and applicant status updates in one place.
+Dashboard: Track posted jobs and monitor applicant statuses.
 
 👨‍💻 Job Seeker
-Apply to Jobs: Apply by uploading your resume and selecting your skillset.
+Apply to Jobs: Upload your resume and select your skillset to apply.
 
-Advanced Filters: Search jobs by salary range, location, job type, and experience.
+Advanced Filters: Search jobs by salary, location, job type, and experience level.
 
-Profile Management: Upload resume and update skills to simplify future applications.
+Profile Management: Manage your resume and skillset to streamline applications.
 
 🛠 Tech Stack
-Frontend: React.js, Tailwind CSS, Shadcn/UI, Framer Motion (for animations)
+Frontend: React.js, Tailwind CSS, Shadcn/UI, Framer Motion (for smooth animations)
 
 Backend: Node.js, Express.js
 
-Database: MongoDB with Mongoose
-
 Authentication: JWT (JSON Web Tokens)
 
-Deployment: Vercel (Frontend), Render (Backend)
+Database: MongoDB with Mongoose
+
+Deployment:
+
+🌐 Frontend: Vercel
+
+🖥️ Backend: Render
