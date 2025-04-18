@@ -2,7 +2,7 @@
 
 This is a job portal application that connects job seekers with recruiters. It allows recruiters to post job openings, view applicants, and manage job listings. Job seekers can search for jobs, apply using filters like salary and location, and upload their resumes.
 
-- **Live Demo:https://job-portal-three-navy.vercel.app/
+- Live Demo:https://job-portal-three-navy.vercel.app/
 
 ## Features
 
