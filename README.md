@@ -1,32 +1,25 @@
-💼 Job Portal Application
-A full-stack job portal web application that bridges the gap between job seekers and recruiters. The platform allows recruiters to post and manage job listings, while job seekers can search, filter, and apply for jobs through a sleek and modern interface.
+# Job Portal Application
 
-🚀 Live Demo:https://job-portal-three-navy.vercel.app/
----
-🔥 Features
----
-#👨‍💼 Recruiter
-Post Job Openings: Create job listings with title, description, salary, location, and experience requirements.
+This is a job portal application that connects job seekers with recruiters. It allows recruiters to post job openings, view applicants, and manage job listings. Job seekers can search for jobs, apply using filters like salary and location, and upload their resumes.
 
- Manage Applicants: View and manage all received applications.
+- **Live Demo:https://job-portal-three-navy.vercel.app/
 
-Dashboard: Track posted jobs and monitor applicant statuses.
----
-#👨‍💻 Job Seeker
-Apply to Jobs: Upload your resume and select your skillset to apply.
+## Features
 
-Advanced Filters: Search jobs by salary, location, job type, and experience level.
+### Recruiter
+- **Post Job Openings**: Recruiters can create job postings with details like job title, description, salary, and location.
+- **Manage Applicants**: View and manage applicants who apply for posted jobs.
+- **Dashboard**: Track and update job postings and applicant status.
 
-Profile Management: Manage your resume and skillset to streamline applications.
----
-#🛠 Tech Stack
-Frontend: React.js, Tailwind CSS, Shadcn/UI
+### Job Seeker
+- **Apply to Jobs**: Apply to job listings by uploading your resume and skills.
+- **Job Filters**: Search and filter job listings by criteria like salary, location, job type, and experience level.
+- **Profile Management**: Upload your resume and manage your skillset for easier job applications.
 
-Backend: Node.js, Express.js
+## Tech Stack
 
-Authentication: JWT (JSON Web Tokens)
-
-Database: MongoDB with Mongoose
----
-Deployment: Vercel
----
+- **Frontend**: React.js, Shadcn/UI, Framer Motion (for animations)
+- **Backend**: Node.js, Express.js, MongoDB
+- **Authentication**:  JWT
+- **Database**: MongoDB
+- **Deployment**: Render for backend, Vercel for frontend
